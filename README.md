@@ -23,6 +23,7 @@ I worked for several companies and customers in Uruguay, and, in the last years,
   <img align="left" title="Python" alt="Python" width="40px" src="https://github.com/user-attachments/assets/7946a7c4-6879-4d42-8f16-b109507cf6c1" />
 </a>
 <br />
+<br />
 
 #### Other tools and technologies
 <a href="https://angular.dev/" target="_blank">
@@ -34,6 +35,7 @@ I worked for several companies and customers in Uruguay, and, in the last years,
 <a href="https://aws.amazon.com/" target="_blank">
   <img align="left" title="AWS" alt="AWS" width="40px" src="https://github.com/user-attachments/assets/9fff0423-d40a-43ba-a96e-1c27c57edaef" />
 </a>
+<br />
 <br />
 <br />
 
