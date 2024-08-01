@@ -22,6 +22,7 @@ I worked for several companies and customers in Uruguay, and, in the last years,
 <a href="https://www.python.org/" target="_blank">
   <img align="left" title="Python" alt="Python" width="40px" src="https://github.com/user-attachments/assets/7946a7c4-6879-4d42-8f16-b109507cf6c1" />
 </a>
+<br />
 
 #### Other tools and technologies
 <a href="https://angular.dev/" target="_blank">
@@ -33,6 +34,8 @@ I worked for several companies and customers in Uruguay, and, in the last years,
 <a href="https://aws.amazon.com/" target="_blank">
   <img align="left" title="AWS" alt="AWS" width="40px" src="https://github.com/user-attachments/assets/9fff0423-d40a-43ba-a96e-1c27c57edaef" />
 </a>
+<br />
+<br />
 
 ### My projects in Github
 Currently, I'm working in an old portfolio project called Quermi, an application to connect care providers with people that need special cares, like elder people.
@@ -42,7 +45,7 @@ More info: [https://github.com/david-rivero/quermiapp](https://github.com/david-
 - New backend in Spring (WIP): [https://github.com/david-rivero/quermi-be-java](https://github.com/david-rivero/quermi-be-java)
 
 #### Other projects
-- Yubiai: Yubiai is a decentralized marketplace to hire and sell services, using crypto as a payment method and implementing blockchain services from Kleros to handle dispute resolution during the hiring process. Here as a developer and co-founder, I implemented some key features using React and Node.js as tech stack, and then working with Solidity and Web3 to connect with dispute resolution services from Kleros (like Escrow).
+- **Yubiai**: Yubiai is a decentralized marketplace to hire and sell services, using crypto as a payment method and implementing blockchain services from Kleros to handle dispute resolution during the hiring process. Here as a developer and co-founder, I implemented some key features using React and Node.js as tech stack, and then working with Solidity and Web3 to connect with dispute resolution services from Kleros (like Escrow).
   - Some repos from Yubiai:
     - Frontend: [https://github.com/yubiai/marketplace_front](https://github.com/yubiai/marketplace_front)
     - Backend: [https://github.com/yubiai/marketplace_api](https://github.com/yubiai/marketplace_api)
@@ -50,5 +53,5 @@ More info: [https://github.com/david-rivero/quermiapp](https://github.com/david-
 
 
 ### My links
-- Linkedin: [https://www.linkedin.com/in/davidriveroalegre](https://www.linkedin.com/in/davidriveroalegre)
+- **Linkedin**: [https://www.linkedin.com/in/davidriveroalegre](https://www.linkedin.com/in/davidriveroalegre)
 
