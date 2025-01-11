@@ -1,8 +1,8 @@
 ## David Rivero
-Fullstack developer based in Portugal 💻🇵🇹
+Sr. Frontend Developer based in Portugal 💻🇵🇹
 
 ### About Me
-Fullstack Developer based in Portugal, with 9 years of experience in the industry, working with technologies like React, Angular, Typescript and E2E / unit testing in Frontend, and Python and Node.js in the Backend side.
+Sr. Frontend Developer based in Portugal, with 9 years of experience in the industry, working with technologies like React, Angular, Typescript and E2E / unit testing in Frontend, and Python and Node.js in the Backend side.
 
 I worked for several companies and customers in Uruguay, and, in the last years, I decided to move to Europe to continue my professional growth in Software Engineering.
 
