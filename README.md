@@ -2,9 +2,7 @@
 Sr. Frontend Developer based in Portugal 💻🇵🇹
 
 ### About Me
-Sr. Frontend Developer based in Portugal, with 9 years of experience in the industry, working with technologies like React, Angular, Typescript and E2E / unit testing in Frontend, and Python and Node.js in the Backend side.
-
-I worked for several companies and customers in Uruguay, and, in the last years, I decided to move to Europe to continue my professional growth in Software Engineering.
+Experienced Frontend Developer based in Portugal, focused on technologies like React, Typescript, Node.js, MongoDB, and Angular. Since 2015, I have been working for companies and startups located in Uruguay, USA and Europe, focused in industries like Travel, EdTech, Fintech, etc. My goal is to lead the product development process from the Frontend perspective.
 
 ### My stack
 <a href="https://react.dev/" target="_blank">
@@ -18,9 +16,6 @@ I worked for several companies and customers in Uruguay, and, in the last years,
 </a>
 <a href="https://nodejs.org/en" target="_blank">
   <img align="left" title="Node.js" alt="Node.js" width="40px" src="https://github.com/user-attachments/assets/91c6e5ee-da7e-41bc-a49a-9f6a4e290398" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img align="left" title="Python" alt="Python" width="40px" src="https://github.com/user-attachments/assets/7946a7c4-6879-4d42-8f16-b109507cf6c1" />
 </a>
 <br />
 <br />
@@ -39,15 +34,8 @@ I worked for several companies and customers in Uruguay, and, in the last years,
 <br />
 <br />
 
-### My projects in Github
-Currently, I'm working in an old portfolio project called Quermi, an application to connect care providers with people that need special cares, like elder people.
-More info: [https://github.com/david-rivero/quermiapp](https://github.com/david-rivero/quermiapp)
-- New Landing (WIP): [https://github.com/david-rivero/quermi-landing](https://github.com/david-rivero/quermi-landing)
-- New app (WIP): [https://github.com/david-rivero/quermi-frontend](https://github.com/david-rivero/quermi-frontend)
-- New backend in Spring (WIP): [https://github.com/david-rivero/quermi-be-java](https://github.com/david-rivero/quermi-be-java)
-
-#### Other projects
-- **Yubiai**: Yubiai is a decentralized marketplace to hire and sell services, using crypto as a payment method and implementing blockchain services from Kleros to handle dispute resolution during the hiring process. Here as a developer and co-founder, I implemented some key features using React and Node.js as tech stack, and then working with Solidity and Web3 to connect with dispute resolution services from Kleros (like Escrow).
+### Projects
+- **Yubiai**: Yubiai is a Web3 marketplace to hire and sell services, using crypto as a payment method and using other blockchain services in some common E-Commerce use cases. As a Web3 developer and co-founder, I focused on linking the smart contracts interaction with the application to resolve some scenarios like dispute resolution, product curation, etc.
   - Some repos from Yubiai:
     - Frontend: [https://github.com/yubiai/marketplace_front](https://github.com/yubiai/marketplace_front)
     - Backend: [https://github.com/yubiai/marketplace_api](https://github.com/yubiai/marketplace_api)
